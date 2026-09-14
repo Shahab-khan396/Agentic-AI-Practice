@@ -7,7 +7,16 @@ authors = [
     { name = "Shahab-khan396", email = "ksab2922@gmail.com" }
 ]
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "langchain>=1.4.0",
+    "langchain-community>=0.4.2",
+    "langchain-core>=1.6.3",
+    "langchain-google-genai>=4.4.0",
+    "langchain-groq>=1.1.3",
+    "langchain-openai>=1.6.2",
+    "langgraph>=1.2.11",
+    "python-dotenv>=1.2.3",
+]
 
 [project.scripts]
 agentic-ai-practice = "agentic_ai_practice:main"
