@@ -18,6 +18,8 @@ dependencies = [
     "langchain-openai>=1.6.2",
     "langchain-tavily>=0.2.18",
     "langgraph>=1.2.11",
+    "openai>=3.13.0",
+    "pageindex>=0.2.8",
     "python-dotenv>=1.2.3",
 ]
 
