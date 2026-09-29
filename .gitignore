@@ -218,4 +218,4 @@ __marimo__/
 .streamlit/secrets.toml
 
 .chroma_db
-.chroma_db/
+.Agentic Rag/chroma_db/
