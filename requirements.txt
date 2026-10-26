@@ -8,3 +8,4 @@ langchain-groq
 python-dotenv
 ipykernel
 langchain_tavily
+tavily
