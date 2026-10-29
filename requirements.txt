@@ -9,3 +9,5 @@ python-dotenv
 ipykernel
 langchain_tavily
 tavily
+beautifulsoup4
+pandas
